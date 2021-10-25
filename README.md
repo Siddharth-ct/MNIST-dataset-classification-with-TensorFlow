@@ -28,6 +28,3 @@ Confusion Matrix -- "Truth" stands for the actual value of the classification ty
 ![github-small](images/Confusion_Matrix.png)
 
 Note: Go through the Python Notebook. Each step has been explained briefly.
-
-<br>
-![](https://komarev.com/ghpvc/?username=Siddharth-ct&label=PROFILE+VIEWS&style=flat-square)
