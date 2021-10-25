@@ -15,6 +15,7 @@ Test accuracy: 99.51%<br/>
 
 ## The following additional plots and charts were made to understand the model beter.
 Loss vs Epochs
+
 ![github-small](images/Loss_vs_epoch.png)
 
 
