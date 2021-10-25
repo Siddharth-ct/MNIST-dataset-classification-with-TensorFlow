@@ -27,5 +27,5 @@ Confusion Matrix -- "Truth" stands for the actual value of the classification ty
 
 ![github-small](images/Confusion Matrix.png)
 
-<br/>
+<br>
 Note: Go through the Python Notebook. Each step has been explained briefly.
