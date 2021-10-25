@@ -19,10 +19,11 @@ Loss vs Epochs
 
 
 Accuracy vs Epochs
-![github-small](images/Accuracy vs Epoch.png)
+
+![github-small](images/Accuracy_vs_Epoch.png)
 
 Confusion Matrix -- "Truth" stands for the actual value of the classification type whereas "predicted" stands for the predicted classification by the model
-![github-small](images/Confusion Matrix.png)
 
-<br>
+![github-small](images/Confusion_Matrix.png)
+
 Note: Go through the Python Notebook. Each step has been explained briefly.
