@@ -16,6 +16,8 @@ Test accuracy: 99.51%<br/>
 ## The following additional plots and charts were made to understand the model beter.
 Loss vs Epochs
 
+![github-small](images/Loss_vs_epoch.png)
+
 Accuracy vs Epochs
 
 Confusion Matrix -- "Truth" stands for the actual value of the classification type whereas "predicted" stands for the predicted classification by the model.
